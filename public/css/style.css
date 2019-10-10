@@ -1,0 +1,19 @@
+.button-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a.my-button {
+    /*width: 100%;*/
+    margin: 5px 0;
+    /*display: block;*/
+}
+
+.gallery-item {
+    margin: 10px 0;
+}
+
+.gallery-image {
+    display: block;
+    margin: 0 auto;
+}
